@@ -1,0 +1,1 @@
+This repository contains code and projects I developed based on the Udemy course Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]. All code here is my personal implementation and for educational purposes only. The dataset and course materials remain the intellectual property of their respective owners.
